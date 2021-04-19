@@ -1,13 +1,13 @@
-#Advanced Programming with Python Group Project
+# Advanced Programming with Python Group Project
 
-##Group members
+## Group members
 
 * Duong Dang Hung	BI10-073
 * Ta Quang Hieu		BI10-065
 * Tham Nhu Phong 	BI10-136
 * Nguyen Hoang Yen	BI10-197
 
-###Group members are required to:
+### Group members are required to:
 * Fork this repository to your own github account
 * Clone the repository to your local machine (your desktop/laptop)
 * Update your repository regularly to keep it up-to-date with the original repository
